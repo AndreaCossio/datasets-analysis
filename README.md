@@ -1,2 +1,5 @@
-# datasets-analysis
-This is a collection of some analysis that I've done.
+# Datasets
+
+List of datasets:
+
+1. [Iris Data](https://github.com/AndreaCossio/datasets-analysis/Iris)
